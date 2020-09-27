@@ -268,7 +268,7 @@ class CourseList extends Component {
                         </div>
                 }
                 {/* list ends */}
-           <div style={{height:"5vh"}}></div>
+                <div style={{height:"5vh"}}></div>
             </div>
         );
     }
