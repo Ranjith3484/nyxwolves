@@ -6,7 +6,7 @@ class LoginPage extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            Email: '123@gmail.com',
+            Email: '',
             Password: '123',
             sending: false
         }
