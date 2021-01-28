@@ -92,7 +92,7 @@ class LoginPage extends Component {
             <div className="container">
                 <div className="card container-fluid" style={{width:"50vh",height:"50vh",marginTop:"25vh",
                 backgroundColor:'#cccccc',justifyContent:'space-evenly'}}>
-                    <h4 style={{textAlign:'center'}}>SignIn1</h4>
+                    <h4 style={{textAlign:'center'}}>SignIn Host</h4>
                     <div className="form-group">
                         <label for="uname">Email:</label>
                         <input type="text" className="form-control" placeholder="Enter email" name="email" 
